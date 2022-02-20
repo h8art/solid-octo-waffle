@@ -10,7 +10,7 @@
   "Files": [
 	],
   "Ignore": [
-      "!Dimensions('plan_version')"
+      "Dimensions('plan_report')"
   ],
   "Deployment": {},
   "PrePull": [],
