@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}CAMAssociatedGroups",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}CAMAssociatedGroups')/Hierarchies('}CAMAssociatedGroups')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}CAMAssociatedGroups.hierarchies/}CAMAssociatedGroups.json"
+	]
+}

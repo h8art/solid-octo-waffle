@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_currency",
+	"Elements":
+	[
+		{
+			"Name":"All Currencies",
+			"Type":"String"
+		},
+		{
+			"Name":"All Currency",
+			"Type":"String"
+		},
+		{
+			"Name":"All Currency Rows",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

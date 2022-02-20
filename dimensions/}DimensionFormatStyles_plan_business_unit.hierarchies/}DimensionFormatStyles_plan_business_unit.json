@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_business_unit",
+	"Elements":
+	[
+		{
+			"Name":"ps_bu_title",
+			"Type":"String"
+		},
+		{
+			"Name":"Bu by Geography",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

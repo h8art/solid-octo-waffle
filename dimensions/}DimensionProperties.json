@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}DimensionProperties",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}DimensionProperties')/Hierarchies('}DimensionProperties')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}DimensionProperties.hierarchies/}DimensionProperties.json"
+	]
+}

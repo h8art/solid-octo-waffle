@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_department",
+	"Elements":
+	[
+		{
+			"Name":"All Departments",
+			"Type":"String"
+		},
+		{
+			"Name":"Default",
+			"Type":"String"
+		},
+		{
+			"Name":"Dy Nlevel Dept",
+			"Type":"String"
+		},
+		{
+			"Name":"n level departments",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

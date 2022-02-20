@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Chores",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Chores')/Hierarchies('}Chores')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Chores.hierarchies/}Chores.json"
+	]
+}

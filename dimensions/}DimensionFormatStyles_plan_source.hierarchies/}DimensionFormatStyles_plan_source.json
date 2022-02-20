@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_source",
+	"Elements":
+	[
+		{
+			"Name":"source_title",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_goal_style1",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

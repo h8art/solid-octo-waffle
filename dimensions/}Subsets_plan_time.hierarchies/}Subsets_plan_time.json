@@ -1,0 +1,136 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_time",
+	"Elements":
+	[
+		{
+			"Name":"2003 Quarters",
+			"Type":"String"
+		},
+		{
+			"Name":"2003 Total Year",
+			"Type":"String"
+		},
+		{
+			"Name":"2004",
+			"Type":"String"
+		},
+		{
+			"Name":"2004 Total",
+			"Type":"String"
+		},
+		{
+			"Name":"2004 Total with Qrts",
+			"Type":"String"
+		},
+		{
+			"Name":"2004 Total Year",
+			"Type":"String"
+		},
+		{
+			"Name":"All Years",
+			"Type":"String"
+		},
+		{
+			"Name":"current_year_and_qtrs",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Desc Year Qtr Month",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Months",
+			"Type":"String"
+		},
+		{
+			"Name":"current year",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Year Qtr Months",
+			"Type":"String"
+		},
+		{
+			"Name":"Default",
+			"Type":"String"
+		},
+		{
+			"Name":"last_year_and_qtrs",
+			"Type":"String"
+		},
+		{
+			"Name":"Last Year",
+			"Type":"String"
+		},
+		{
+			"Name":"n level 2003 time",
+			"Type":"String"
+		},
+		{
+			"Name":"n level 2003 to 2005 time",
+			"Type":"String"
+		},
+		{
+			"Name":"n level 2004 time",
+			"Type":"String"
+		},
+		{
+			"Name":"n level 2004 time with total yr",
+			"Type":"String"
+		},
+		{
+			"Name":"n level 2005 time",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2003_with_desc",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2003_with_qrts",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2004",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2004_qtrs_and_month",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2004_with_desc",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2004_with_ly_qtrs",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2004_with_qtrs",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2005_with_desc",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_2005_with_qtrs",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_latest_months",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_month",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_time_with_desc",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Cube Functions",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Cube Functions')/Hierarchies('}Cube Functions')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Cube Functions.hierarchies/}Cube Functions.json"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}ElementAttributes_}tp_system_config",
+	"Elements":
+	[
+		{
+			"Name":"ConfigValue",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

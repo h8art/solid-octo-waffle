@@ -1,0 +1,32 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_exchange_rates",
+	"Elements":
+	[
+		{
+			"Name":"actual",
+			"Type":"String"
+		},
+		{
+			"Name":"All Exchange Rates",
+			"Type":"String"
+		},
+		{
+			"Name":"All rates",
+			"Type":"String"
+		},
+		{
+			"Name":"local",
+			"Type":"String"
+		},
+		{
+			"Name":"local exchange rate",
+			"Type":"String"
+		},
+		{
+			"Name":"plan exchange rates not local",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

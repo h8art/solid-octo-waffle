@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_report",
+	"Elements":
+	[
+		{
+			"Name":"Plan Exec Report Measure1",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

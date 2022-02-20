@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}DimensionFormatStyles_plan_format_template",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}DimensionFormatStyles_plan_format_template')/Hierarchies('}DimensionFormatStyles_plan_format_template')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}DimensionFormatStyles_plan_format_template.hierarchies/}DimensionFormatStyles_plan_format_template.json"
+	]
+}

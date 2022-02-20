@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_measure_setting",
+	"Elements":
+	[
+		{
+			"Name":"Default",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

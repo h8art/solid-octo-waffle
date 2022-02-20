@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Views_plan_BudgetPlanLineItem",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Views_plan_BudgetPlanLineItem')/Hierarchies('}Views_plan_BudgetPlanLineItem')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Views_plan_BudgetPlanLineItem.hierarchies/}Views_plan_BudgetPlanLineItem.json"
+	]
+}

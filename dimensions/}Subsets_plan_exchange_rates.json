@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Subsets_plan_exchange_rates",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Subsets_plan_exchange_rates')/Hierarchies('}Subsets_plan_exchange_rates')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Subsets_plan_exchange_rates.hierarchies/}Subsets_plan_exchange_rates.json"
+	]
+}

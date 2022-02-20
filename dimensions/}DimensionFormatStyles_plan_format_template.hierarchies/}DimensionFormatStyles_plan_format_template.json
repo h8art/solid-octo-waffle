@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_format_template",
+	"Elements":
+	[
+		{
+			"Name":"plan_default_style1",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_default_style2",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_column_style1",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_column_style2",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_pl_variance_style1",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

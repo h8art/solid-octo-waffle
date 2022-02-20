@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Cultures",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Cultures')/Hierarchies('}Cultures')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Cultures.hierarchies/}Cultures.json"
+	]
+}

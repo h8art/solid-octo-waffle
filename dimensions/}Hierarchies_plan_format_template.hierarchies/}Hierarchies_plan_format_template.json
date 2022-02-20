@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Hierarchies_plan_format_template",
+	"Elements":
+	[
+		{
+			"Name":"plan_format_template",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

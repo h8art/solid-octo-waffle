@@ -1,0 +1,48 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_chart_of_accounts",
+	"Elements":
+	[
+		{
+			"Name":"Consolidations",
+			"Type":"String"
+		},
+		{
+			"Name":"Default",
+			"Type":"String"
+		},
+		{
+			"Name":"Net_Operating_Income",
+			"Type":"String"
+		},
+		{
+			"Name":"n level accounts",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_budget_accts_reverse",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_line_item_accounts",
+			"Type":"String"
+		},
+		{
+			"Name":"plan_top_level_accts",
+			"Type":"String"
+		},
+		{
+			"Name":"Reverse Detailed Chart Of Accounts",
+			"Type":"String"
+		},
+		{
+			"Name":"Summary Reverse ChartOfAccounts",
+			"Type":"String"
+		},
+		{
+			"Name":"test expand down",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

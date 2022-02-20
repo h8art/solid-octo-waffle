@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Subsets_plan_currency",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Subsets_plan_currency')/Hierarchies('}Subsets_plan_currency')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Subsets_plan_currency.hierarchies/}Subsets_plan_currency.json"
+	]
+}

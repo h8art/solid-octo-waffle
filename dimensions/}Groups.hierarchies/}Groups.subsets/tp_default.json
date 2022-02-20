@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"tp_default",
+	"Expression":"TM1SubsetAll([}Groups])"
+}

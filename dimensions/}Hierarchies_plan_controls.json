@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}Hierarchies_plan_controls",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}Hierarchies_plan_controls')/Hierarchies('}Hierarchies_plan_controls')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}Hierarchies_plan_controls.hierarchies/}Hierarchies_plan_controls.json"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_exchange_rates",
+	"Elements":
+	[
+		{
+			"Name":"Rate_Rows",
+			"Type":"String"
+		},
+		{
+			"Name":"rate_title",
+			"Type":"String"
+		},
+		{
+			"Name":"Rate Column",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

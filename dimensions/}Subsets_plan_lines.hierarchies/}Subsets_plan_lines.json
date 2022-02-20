@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_lines",
+	"Elements":
+	[
+		{
+			"Name":"Default",
+			"Type":"String"
+		},
+		{
+			"Name":"lines",
+			"Type":"String"
+		},
+		{
+			"Name":"TotalLines",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

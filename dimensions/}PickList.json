@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}PickList",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}PickList')/Hierarchies('}PickList')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}PickList.hierarchies/}PickList.json"
+	]
+}

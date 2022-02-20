@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}DimensionFormatStyles_plan_version",
+	"Elements":
+	[
+		{
+			"Name":"ps_version_title",
+			"Type":"String"
+		},
+		{
+			"Name":"FY 2004 Budget",
+			"Type":"String"
+		},
+		{
+			"Name":"All Version Title",
+			"Type":"String"
+		},
+		{
+			"Name":"All Budget Title",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}CubeDrillString",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}CubeDrillString')/Hierarchies('}CubeDrillString')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}CubeDrillString.hierarchies/}CubeDrillString.json"
+	]
+}

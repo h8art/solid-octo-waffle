@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Subsets_plan_business_unit",
+	"Elements":
+	[
+		{
+			"Name":"All Business Units",
+			"Type":"String"
+		},
+		{
+			"Name":"Default",
+			"Type":"String"
+		},
+		{
+			"Name":"n level business unit",
+			"Type":"String"
+		},
+		{
+			"Name":"TotalBU and Geography",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

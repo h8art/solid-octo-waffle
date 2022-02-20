@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}ElementAttributes_}tp_applications",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}ElementAttributes_}tp_applications')/Hierarchies('}ElementAttributes_}tp_applications')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}ElementAttributes_}tp_applications.hierarchies/}ElementAttributes_}tp_applications.json"
+	]
+}

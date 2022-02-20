@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}PerfCubes",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}PerfCubes')/Hierarchies('}PerfCubes')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}PerfCubes.hierarchies/}PerfCubes.json"
+	]
+}

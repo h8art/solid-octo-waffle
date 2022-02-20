@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}TimeIntervals",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}TimeIntervals')/Hierarchies('}TimeIntervals')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}TimeIntervals.hierarchies/}TimeIntervals.json"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}ElementAttributes_plan_chart_of_accounts",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}ElementAttributes_plan_chart_of_accounts')/Hierarchies('}ElementAttributes_plan_chart_of_accounts')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}ElementAttributes_plan_chart_of_accounts.hierarchies/}ElementAttributes_plan_chart_of_accounts.json"
+	]
+}

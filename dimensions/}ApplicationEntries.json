@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}ApplicationEntries",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}ApplicationEntries')/Hierarchies('}ApplicationEntries')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}ApplicationEntries.hierarchies/}ApplicationEntries.json"
+	]
+}

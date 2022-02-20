@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}Hierarchies_plan_version",
+	"Elements":
+	[
+		{
+			"Name":"plan_version",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

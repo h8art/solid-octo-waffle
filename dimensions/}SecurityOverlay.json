@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}SecurityOverlay",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}SecurityOverlay')/Hierarchies('}SecurityOverlay')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}SecurityOverlay.hierarchies/}SecurityOverlay.json"
+	]
+}
