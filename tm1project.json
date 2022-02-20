@@ -10,7 +10,6 @@
   "Files": [
 	],
   "Ignore": [
-      "!Dimensions"
   ],
   "Deployment": {},
   "PrePull": [],
