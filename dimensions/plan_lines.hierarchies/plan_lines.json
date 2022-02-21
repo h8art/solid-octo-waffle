@@ -34,6 +34,10 @@
 		{
 			"Name":"All Lines",
 			"Type":"Consolidated"
+		},
+		{
+			"Name":"line 8",
+			"Type":"Numeric"
 		}
 	],
 	"Edges":
