@@ -22,6 +22,10 @@
 		{
 			"Name":"AUD",
 			"Type":"Numeric"
+		},
+		{
+			"Name":"RUB",
+			"Type":"Numeric"
 		}
 	],
 	"Subsets@Code.links":
