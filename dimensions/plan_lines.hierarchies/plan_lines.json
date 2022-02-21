@@ -24,6 +24,14 @@
 			"Type":"Numeric"
 		},
 		{
+			"Name":"line 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"line 7",
+			"Type":"Numeric"
+		},
+		{
 			"Name":"All Lines",
 			"Type":"Consolidated"
 		}
